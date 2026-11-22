@@ -1,4 +1,5 @@
 # SlitherZoomer
+<img width="1872" height="947" alt="image" src="https://github.com/user-attachments/assets/c7a8b208-41de-44f3-94bb-e63720007562" />
 
 A userscript for [slither.io](http://slither.io) that lets you **zoom out**, **reduce lag**, **hide small food** and **keep your nickname**, all from a clean in-game menu.
 
